@@ -1,6 +1,6 @@
 {
     "about": "關於本遊戲",
-    "gameName": "Pinaiwanan, 排灣語",
+    "gameName": "Sakizaya, 撒奇萊雅語",
     "enterKey": "輸入",
     "deleteKey": "刪除",
     "notEnoughLetters": "字母數不足，請填滿方塊",
@@ -26,7 +26,8 @@
         "完美！",
         "做得好！"
     ],
-    "firstExampleWord": [{
+    "firstExampleWord": [
+        {
             "letter": "T",
             "highlight": true
         },
@@ -51,7 +52,8 @@
             "highlight": false
         }
     ],
-    "secondExampleWord": [{
+    "secondExampleWord": [
+        {
             "letter": "P",
             "highlight": false
         },
@@ -74,9 +76,10 @@
         {
             "letter": "N",
             "highlight": false
-        }                
+        }
     ],
-    "thirdExampleWord": [{
+    "thirdExampleWord": [
+        {
             "letter": "TJ",
             "highlight": false
         },
